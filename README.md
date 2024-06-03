@@ -1,1 +1,2 @@
-# rn-assignment3-11343719
+my project
+My README and screen shot
